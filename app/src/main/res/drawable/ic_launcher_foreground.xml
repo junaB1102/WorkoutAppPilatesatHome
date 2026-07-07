@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Minimalistische Blüte als App-Icon: acht Blütenblätter (Wellness/Dehnung/Ruhe),
+  weiß auf dem salbeigrünen Hintergrund, mit einem Terracotta-Kern als Akzent.
+  Alle Formen liegen innerhalb der sicheren Zone (Kreis mit r=30 um den Mittelpunkt),
+  damit auf jedem Launcher (rund, eckig, Squircle ...) nichts abgeschnitten wird.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Ein Blütenblatt (vertikale Ellipse), wird unten 8x rotiert -->
+    <group android:name="petal_0" android:pivotX="54" android:pivotY="54" android:rotation="0">
+        <path android:fillColor="#FFFFFF" android:pathData="M48,42 A6,14 0 1,0 60,42 A6,14 0 1,0 48,42 Z" />
+    </group>
+    <group android:name="petal_45" android:pivotX="54" android:pivotY="54" android:rotation="45">
+        <path android:fillColor="#FFFFFF" android:pathData="M48,42 A6,14 0 1,0 60,42 A6,14 0 1,0 48,42 Z" />
+    </group>
+    <group android:name="petal_90" android:pivotX="54" android:pivotY="54" android:rotation="90">
+        <path android:fillColor="#FFFFFF" android:pathData="M48,42 A6,14 0 1,0 60,42 A6,14 0 1,0 48,42 Z" />
+    </group>
+    <group android:name="petal_135" android:pivotX="54" android:pivotY="54" android:rotation="135">
+        <path android:fillColor="#FFFFFF" android:pathData="M48,42 A6,14 0 1,0 60,42 A6,14 0 1,0 48,42 Z" />
+    </group>
+    <group android:name="petal_180" android:pivotX="54" android:pivotY="54" android:rotation="180">
+        <path android:fillColor="#FFFFFF" android:pathData="M48,42 A6,14 0 1,0 60,42 A6,14 0 1,0 48,42 Z" />
+    </group>
+    <group android:name="petal_225" android:pivotX="54" android:pivotY="54" android:rotation="225">
+        <path android:fillColor="#FFFFFF" android:pathData="M48,42 A6,14 0 1,0 60,42 A6,14 0 1,0 48,42 Z" />
+    </group>
+    <group android:name="petal_270" android:pivotX="54" android:pivotY="54" android:rotation="270">
+        <path android:fillColor="#FFFFFF" android:pathData="M48,42 A6,14 0 1,0 60,42 A6,14 0 1,0 48,42 Z" />
+    </group>
+    <group android:name="petal_315" android:pivotX="54" android:pivotY="54" android:rotation="315">
+        <path android:fillColor="#FFFFFF" android:pathData="M48,42 A6,14 0 1,0 60,42 A6,14 0 1,0 48,42 Z" />
+    </group>
+
+    <!-- Blütenkern in der Akzentfarbe -->
+    <path android:fillColor="#E2897E" android:pathData="M45,54 A9,9 0 1,0 63,54 A9,9 0 1,0 45,54 Z" />
+</vector>

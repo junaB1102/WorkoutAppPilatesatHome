@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Workout App Pilates at Home</string>
+
+    <!-- Exercise Names -->
+    <string name="ex_side_lying_leg_lifts_title">SIDE-LYING LEG LIFTS</string>
+    <string name="ex_plank_on_knees_title">PLANK ON KNEES</string>
+    <string name="ex_leg_circles_title">LEG CIRCLES</string>
+    <string name="ex_clamshell_title">CLAMSHELL</string>
+    <string name="ex_shoulder_bridge_title">SHOULDER BRIDGE</string>
+    <string name="ex_cat_cow_stretch_title">CAT-COW STRETCH</string>
+    <string name="ex_hundred_modified_title">HUNDRED (MODIFIED)</string>
+    <string name="ex_swimming_modified_title">SWIMMING (MODIFIED)</string>
+    <string name="ex_mermaid_stretch_title">MERMAID STRETCH</string>
+    <string name="ex_full_plank_title">FULL PLANK</string>
+
+    <!-- Exercise Descriptions -->
+    <string name="ex_side_lying_leg_lifts_desc">Liege auf der Seite mit gestreckten Beinen. Hebe das obere Bein an und senke es kontrolliert wieder ab.</string>
+    <string name="ex_plank_on_knees_desc">Komme in die Plank-Position, aber stütze dich auf deine Knie und auf einen Händen. Halte deinen Körper in einer geraden Linie.</string>
+    <string name="ex_leg_circles_desc">Liege auf dem Rücken, hebe ein Bein gerade nach oben. Male kleine Kreise mit dem Bein in der Luft.</string>
+    <string name="ex_clamshell_desc">Liege auf der Seite mit angewinkelten Knien. Hebe das obere Knie an, während die Füße zusammenbleiben.</string>
+    <string name="ex_shoulder_bridge_desc">Wie bei der Bridge (Nr. 3), aber rolle die Wirbelsäule Wirbel für Wirbel hoch und runter.</string>
+    <string name="ex_cat_cow_stretch_desc">Komme in den Vierfüßlerstand. Wechsle zwischen einem Hohlkreuz (Katze) und einem Rundrücken (Kuh).</string>
+    <string name="ex_hundred_modified_desc">Liege auf dem Rücken, Beine in Tabletop-Position (angewinkelt). Hebe den Oberkörper und pumpe mit den Armen auf und ab, während du tief atmest.</string>
+    <string name="ex_swimming_modified_desc">Liege auf dem Bauch, Arme und Beine ausgestreckt. Hebe diagonal einen Arm und das gegenüberliegende Bein an.</string>
+    <string name="ex_mermaid_stretch_desc">Sitze im Schneidersitz, beuge dich mit einem Arm über den Kopf zur Seite.</string>
+    <string name="ex_full_plank_desc">Unterarmplank-Position</string>
+
+    <!-- UI Strings -->
+    <string name="start_workout">Workout starten</string>
+    <string name="continue_workout_title">Willst du dieses Workout fortsetzten?</string>
+    <string name="yes">Ja</string>
+    <string name="no">Nein</string>
+    <string name="calories_burned">Kalorien heute: %1$d kcal</string>
+    <string name="next">Weiter</string>
+    <string name="workout_finished">Glückwunsch!</string>
+    <string name="tap_to_continue">Tippe zum Fortfahren</string>
+    <string name="overview_title">Übersicht letzte 7 Tage</string>
+    <string name="random_order_label">Zufällige Reihenfolge</string>
+    <string name="exercise_progress">Übung %1$d von %2$d</string>
+    <string name="get_ready">Mach dich bereit!</string>
+    <string name="break_label">Pause</string>
+    <string name="cancel_workout_description">Workout abbrechen</string>
+    <string name="app_subtitle">Pilates zuhause</string>
+</resources>
